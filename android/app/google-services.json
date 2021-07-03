@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "717507561187",
+    "firebase_url": "https://kitab-94635.firebaseio.com",
+    "project_id": "kitab-94635",
+    "storage_bucket": "kitab-94635.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717507561187:android:5695ecf811dd4d3cdba7d6",
+        "android_client_info": {
+          "package_name": "com.salim.foody"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717507561187-14fjs19qmljqnvas35g7oes7upgf9sq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByOvu3a5rU5Wm-KNeGuQmedXl-hy-bOiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717507561187-14fjs19qmljqnvas35g7oes7upgf9sq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
